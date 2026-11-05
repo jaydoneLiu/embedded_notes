@@ -42,6 +42,6 @@ tags:
 
 ## 相关模块
 
-- [Linux 驱动与内核](01-Linux驱动与内核/index.md)
-- [RTOS 与实时系统](04-RTOS与实时系统/index.md)
-- [硬件与 SoC](05-硬件与SoC/index.md)
+- [Linux 驱动与内核](../01-Linux驱动与内核/index.md)
+- [RTOS 与实时系统](../04-RTOS与实时系统/index.md)
+- [硬件与 SoC](../05-硬件与SoC/index.md)

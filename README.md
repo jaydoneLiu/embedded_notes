@@ -45,20 +45,20 @@ git push
 
 ## 发布为公开网站（GitHub Pages）
 
-目标地址：https://jaydoneliu.github.io/embedded-notes/
+目标地址：https://jaydoneliu.github.io/embedded_notes/
 
-仓库已创建：`https://github.com/jaydoneLiu/embedded-notes`
+仓库已创建：`https://github.com/jaydoneLiu/embedded_notes`
 
 ```bash
 git add .
 git commit -m "init: embedded learning site"
 git branch -M main
-git remote add origin https://github.com/jaydoneLiu/embedded-notes.git
+git remote add origin https://github.com/jaydoneLiu/embedded_notes.git
 git push -u origin main
 ```
 
 然后：仓库 → **Settings → Pages → Source** 选 **GitHub Actions**  
-等 Actions 成功后访问：https://jaydoneliu.github.io/embedded-notes/
+等 Actions 成功后访问：https://jaydoneliu.github.io/embedded_notes/
 
 ## 目录说明
 
