@@ -45,12 +45,20 @@ git push
 
 ## 发布为公开网站（GitHub Pages）
 
-目标地址：https://jaydoneLiu.github.io/embedded-notes/
+目标地址：https://jaydoneliu.github.io/embedded-notes/
 
-仓库：https://github.com/jaydoneLiu/embedded-notes
+仓库已创建：`https://github.com/jaydoneLiu/embedded-notes`
 
-1. 本目录推送代码后，打开仓库 → **Settings → Pages → Source** 选 **GitHub Actions**
-2. 等 Actions 成功后访问：https://jaydoneLiu.github.io/embedded-notes/
+```bash
+git add .
+git commit -m "init: embedded learning site"
+git branch -M main
+git remote add origin https://github.com/jaydoneLiu/embedded-notes.git
+git push -u origin main
+```
+
+然后：仓库 → **Settings → Pages → Source** 选 **GitHub Actions**  
+等 Actions 成功后访问：https://jaydoneliu.github.io/embedded-notes/
 
 ## 目录说明
 

@@ -21,7 +21,7 @@
 1. **写笔记**：用 Obsidian 打开同级目录 `嵌入式软件学习库`，或直接改本站 `docs/`
 2. **同步到网站**：在 `嵌入式学习网站` 目录运行 `py sync_from_vault.py`
 3. **本地预览**：`py -m mkdocs serve` → http://127.0.0.1:8000
-4. **公开更新**：`git add .` → `git commit` → `git push`，稍后访问 https://jaydoneLiu.github.io/embedded-notes/
+4. **公开更新**：`git add .` → `git commit` → `git push`，稍后访问 https://jaydoneliu.github.io/embedded-notes/
 
 ## 待办方向
 

@@ -1,7 +1,7 @@
 site_name: 嵌入式软件学习库
 site_description: 个人嵌入式软件学习笔记（Linux 驱动、算法、RTOS、SoC…）
 site_author: Embedded Learner
-site_url: https://jaydoneLiu.github.io/embedded-notes/
+site_url: https://jaydoneliu.github.io/embedded-notes/
 repo_name: jaydoneLiu/embedded-notes
 repo_url: https://github.com/jaydoneLiu/embedded-notes
 
