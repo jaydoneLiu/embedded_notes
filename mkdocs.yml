@@ -1,0 +1,86 @@
+site_name: 嵌入式软件学习库
+site_description: 个人嵌入式软件学习笔记（Linux 驱动、算法、RTOS、SoC…）
+site_author: Embedded Learner
+site_url: https://jaydoneLiu.github.io/embedded-notes/
+repo_name: jaydoneLiu/embedded-notes
+repo_url: https://github.com/jaydoneLiu/embedded-notes
+
+copyright: Copyright &copy; 嵌入式软件学习库
+
+theme:
+  name: material
+  language: zh
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: cyan
+      toggle:
+        icon: material/weather-sunny
+        name: 切换到深色模式
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: cyan
+      toggle:
+        icon: material/weather-night
+        name: 切换到浅色模式
+  font:
+    text: Noto Sans SC
+    code: JetBrains Mono
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - toc.follow
+  icon:
+    logo: material/chip
+
+plugins:
+  - search:
+      lang:
+        - zh
+        - en
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+extra:
+  social: []
+
+nav:
+  - 首页: index.md
+  - Linux 驱动与内核: 01-Linux驱动与内核/index.md
+  - 算法与 LeetCode: 02-算法与LeetCode/index.md
+  - 嵌入式基础: 03-嵌入式基础/index.md
+  - RTOS 与实时系统: 04-RTOS与实时系统/index.md
+  - 硬件与 SoC: 05-硬件与SoC/index.md
+  - 通信协议与外设: 06-通信协议与外设/index.md
+  - 工具链与调试: 07-工具链与调试/index.md
+  - 项目实战: 08-项目实战/index.md
+  - 面试复习: 09-面试复习/index.md
+  - 模板与资源:
+      - 笔记模板: 99-模板与资源/笔记模板.md
+      - 题解模板: 99-模板与资源/题解模板.md
+      - 项目复盘模板: 99-模板与资源/项目复盘模板.md
