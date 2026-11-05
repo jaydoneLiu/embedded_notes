@@ -24,6 +24,8 @@ tags:
 
 - [ ] 内存管理（页表、kmalloc、vmalloc）
 
+  内存管理分成heap1，heap2
+
 - [ ] 中断与软中断 / tasklet / workqueue
 
 - [ ] 同步机制（自旋锁、互斥、信号量、RCU）
@@ -55,6 +57,6 @@ tags:
 
 ## 相关模块
 
-- [嵌入式基础](../03-嵌入式基础/index.md)
-- [硬件与 SoC](../05-硬件与SoC/index.md)
-- [工具链与调试](../07-工具链与调试/index.md)
+- [嵌入式基础](03-嵌入式基础/index.md)
+- [硬件与 SoC](05-硬件与SoC/index.md)
+- [工具链与调试](07-工具链与调试/index.md)

@@ -35,6 +35,6 @@ tags:
 
 ## 相关模块
 
-- [硬件与 SoC](../05-硬件与SoC/index.md)
-- [Linux 驱动与内核](../01-Linux驱动与内核/index.md)
-- [面试复习](../09-面试复习/index.md)
+- [硬件与 SoC](05-硬件与SoC/index.md)
+- [Linux 驱动与内核](01-Linux驱动与内核/index.md)
+- [面试复习](09-面试复习/index.md)

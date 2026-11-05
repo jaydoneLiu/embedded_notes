@@ -31,7 +31,7 @@ tags:
 ### 4. 算法与笔试
 - [ ] 链表 / 字符串高频
 - [ ] 位运算与嵌入式小算法
-- [ ] 与 [算法模块](../02-算法与LeetCode/index.md) 联动
+- [ ] 与 [算法模块](02-算法与LeetCode/index.md) 联动
 
 ## 笔记列表
 
@@ -39,6 +39,6 @@ tags:
 
 ## 相关模块
 
-- [Linux 驱动与内核](../01-Linux驱动与内核/index.md)
-- [算法与 LeetCode](../02-算法与LeetCode/index.md)
-- [项目实战](../08-项目实战/index.md)
+- [Linux 驱动与内核](01-Linux驱动与内核/index.md)
+- [算法与 LeetCode](02-算法与LeetCode/index.md)
+- [项目实战](08-项目实战/index.md)
