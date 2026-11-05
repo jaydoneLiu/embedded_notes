@@ -1,4 +1,4 @@
-﻿---
+---
 title: 嵌入式基础
 tags:
   - moc
@@ -41,6 +41,6 @@ tags:
 
 ## 相关模块
 
-- [Linux 驱动与内核](../01-Linux驱动与内核/index.md)
-- [硬件与 SoC](../05-硬件与SoC/index.md)
-- [工具链与调试](../07-工具链与调试/index.md)
+- [Linux 驱动与内核](01-Linux驱动与内核/index.md)
+- [硬件与 SoC](05-硬件与SoC/index.md)
+- [工具链与调试](07-工具链与调试/index.md)

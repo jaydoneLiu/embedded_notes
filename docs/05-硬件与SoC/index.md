@@ -1,4 +1,4 @@
-﻿---
+---
 title: 硬件与 SoC
 tags:
   - moc
@@ -41,6 +41,6 @@ tags:
 
 ## 相关模块
 
-- [Linux 驱动与内核](../01-Linux驱动与内核/index.md)
-- [通信协议与外设](../06-通信协议与外设/index.md)
-- [项目实战](../08-项目实战/index.md)
+- [Linux 驱动与内核](01-Linux驱动与内核/index.md)
+- [通信协议与外设](06-通信协议与外设/index.md)
+- [项目实战](08-项目实战/index.md)

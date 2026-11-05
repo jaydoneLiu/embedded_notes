@@ -1,4 +1,4 @@
-﻿---
+---
 title: 工具链与调试
 tags:
   - moc
@@ -41,5 +41,5 @@ tags:
 
 ## 相关模块
 
-- [Linux 驱动与内核](../01-Linux驱动与内核/index.md)
-- [项目实战](../08-项目实战/index.md)
+- [Linux 驱动与内核](01-Linux驱动与内核/index.md)
+- [项目实战](08-项目实战/index.md)
